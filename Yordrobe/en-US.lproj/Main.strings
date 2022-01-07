@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "1Kv-Wg-gex"; */
+"1Kv-Wg-gex.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Shop the best wordrobes across the Australia and sell too"; ObjectID = "F0h-ru-KNy"; */
+"F0h-ru-KNy.text" = "Shop the best wordrobes across the Australia and sell too";
+
+/* Class = "UILabel"; text = "Sell - Shop - Swap - Drop"; ObjectID = "Fbt-jj-VJm"; */
+"Fbt-jj-VJm.text" = "Sell - Shop - Swap - Drop";
+
+/* Class = "UIButton"; normalTitle = "Login with facebook"; ObjectID = "ONm-QF-Uda"; */
+"ONm-QF-Uda.normalTitle" = "Login with facebook";
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "R4r-rG-lM7"; */
+"R4r-rG-lM7.title" = "Login";
+
+/* Class = "UILabel"; text = "Sell - Shop - Swap - Drop"; ObjectID = "aDE-Pm-8eI"; */
+"aDE-Pm-8eI.text" = "Sell - Shop - Swap - Drop";
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "bSL-j0-QlH"; */
+"bSL-j0-QlH.normalTitle" = "Signup";
+
+/* Class = "UILabel"; text = "Login with user name and password"; ObjectID = "cB9-Yz-USo"; */
+"cB9-Yz-USo.text" = "Login with user name and password";
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "dEW-Pp-WUg"; */
+"dEW-Pp-WUg.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "hEl-TM-Rqn"; */
+"hEl-TM-Rqn.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "nam-na-TU7"; */
+"nam-na-TU7.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "User name"; ObjectID = "nly-Fl-873"; */
+"nly-Fl-873.placeholder" = "User name";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "y9o-cj-laz"; */
+"y9o-cj-laz.normalTitle" = "Forgot Password?";

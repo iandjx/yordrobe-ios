@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Yordrobe
+
+  Created by MuseerAnsari on 7/14/17.
+  Copyright © 2017 MuseerAnsari. All rights reserved.
+*/
+
+
+// Login screen Alerts ...
+"empty_userName" = "Please Enter Your User Name";
+"empty_password" = "Please Enter Your Password";
+"error_title" = "Error!";
+"empty_firstName" = "Please Enter Your First Name";
+"empty_LastName" = "Please Enter Your Last Name";
+"empty_confirmPassword" = "Please Confirm Your Password";
+"passwordNotMatches" = "Your Password and confirm password does not match";
+"empty_email" = "Please Enter Your Email id";
+"worng_email" = "The email address that you have specified is invalid";
+"fb_loginError" = "Please check you internate connection";
+"error_authentication" = "Your account does not exist in our databse";
